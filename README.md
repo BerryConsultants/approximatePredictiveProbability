@@ -7,5 +7,5 @@ Primary functions calculate a predictive probability based on interim data from 
 helper functions assist in interim information calculation and conversions
 
 For some endpoints, information is best specified as sample size, while others are best defined by exposure time or events. Please see the below table for details.
-![information table](https://github.com/BerryConsultants/approximatePredictiveProbability/info.png)
+![information table](https://github.com/BerryConsultants/approximatePredictiveProbability/blob/main/info.png)
 
